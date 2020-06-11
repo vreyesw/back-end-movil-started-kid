@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.movil.started.kid"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "movilStartedKid",
+    "packageName": "com.movil.started.kid",
+    "packageFolder": "com/movil/started/kid",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTNkMDNhNTgwNzk4NjA3ZDUyNTc5MmJjY2Y4MDk0MmNkYjNjZGM0NTYxYWEyODkzYjE0OGI4MjdhMmI1Mzc3NTM2OWZmN2UwMWJhZmYwOGE3MzdhNGJlNDZjMTNiMzM3Njk0ZTgzMzhkNzU1N2E0MWU3MzI3OWU3MmFiNjJmODQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1591897779982,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
